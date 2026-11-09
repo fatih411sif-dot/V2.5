@@ -1,0 +1,10 @@
+{
+ "replace": false,
+ "values": [
+  "sim_smp:foto_2",
+  {
+   "id": "sim_smp:photo",
+   "required": false
+  }
+ ]
+}
